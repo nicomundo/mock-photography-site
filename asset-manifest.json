@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.js": "/mock-photography-site/static/js/main.156c4f63.chunk.js",
+    "main.js.map": "/mock-photography-site/static/js/main.156c4f63.chunk.js.map",
+    "runtime-main.js": "/mock-photography-site/static/js/runtime-main.f4c3d766.js",
+    "runtime-main.js.map": "/mock-photography-site/static/js/runtime-main.f4c3d766.js.map",
+    "static/js/2.129d059a.chunk.js": "/mock-photography-site/static/js/2.129d059a.chunk.js",
+    "static/js/2.129d059a.chunk.js.map": "/mock-photography-site/static/js/2.129d059a.chunk.js.map",
+    "static/js/3.cc7492d3.chunk.js": "/mock-photography-site/static/js/3.cc7492d3.chunk.js",
+    "static/js/3.cc7492d3.chunk.js.map": "/mock-photography-site/static/js/3.cc7492d3.chunk.js.map",
+    "index.html": "/mock-photography-site/index.html",
+    "static/js/2.129d059a.chunk.js.LICENSE.txt": "/mock-photography-site/static/js/2.129d059a.chunk.js.LICENSE.txt",
+    "static/media/athlete-small.9c7a85d4.png": "/mock-photography-site/static/media/athlete-small.9c7a85d4.png",
+    "static/media/athlete2.b216a5ad.png": "/mock-photography-site/static/media/athlete2.b216a5ad.png",
+    "static/media/clock.4b7cde7e.svg": "/mock-photography-site/static/media/clock.4b7cde7e.svg",
+    "static/media/diaphragm.db801491.svg": "/mock-photography-site/static/media/diaphragm.db801491.svg",
+    "static/media/good-times2.4ea1be17.jpg": "/mock-photography-site/static/media/good-times2.4ea1be17.jpg",
+    "static/media/goodtimes-small.94ab060d.png": "/mock-photography-site/static/media/goodtimes-small.94ab060d.png",
+    "static/media/home1.9836de69.png": "/mock-photography-site/static/media/home1.9836de69.png",
+    "static/media/home2.a65a4256.png": "/mock-photography-site/static/media/home2.a65a4256.png",
+    "static/media/money.72da7c48.svg": "/mock-photography-site/static/media/money.72da7c48.svg",
+    "static/media/teamwork.aa71db2e.svg": "/mock-photography-site/static/media/teamwork.aa71db2e.svg",
+    "static/media/the-racer2.580f15cd.jpg": "/mock-photography-site/static/media/the-racer2.580f15cd.jpg",
+    "static/media/theracer-small.51874213.png": "/mock-photography-site/static/media/theracer-small.51874213.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4c3d766.js",
+    "static/js/2.129d059a.chunk.js",
+    "static/js/main.156c4f63.chunk.js"
+  ]
+}
